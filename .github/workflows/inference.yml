@@ -23,5 +23,4 @@ jobs:
       - env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           INPUT_TEXT: ${{ github.event.inputs.input_text }}
-
         run: python src/inference.py
