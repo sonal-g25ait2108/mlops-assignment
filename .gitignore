@@ -36,3 +36,8 @@ data/processed/*
 # OS files
 .DS_Store
 Thumbs.db
+
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
