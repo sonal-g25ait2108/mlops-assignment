@@ -42,4 +42,4 @@ label_map = {
 }
 
 print("Input:", text)
-print("Prediction:", label_map[prediction])
+print("Prediction:", label_map[prediction])\
