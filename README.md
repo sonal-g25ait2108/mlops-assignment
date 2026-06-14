@@ -1,6 +1,12 @@
 # mlops-assignment
 # MLOps Assignment 3 – SMS Spam Classification
 
+GitHub Repository Link - https://github.com/sonal-g25ait2108/mlops-assignment
+Kaggle Notebook Link(s) - https://www.kaggle.com/code/sonalbajajg25ait2108/mlops-assignment2 (Both experiment versions are in this notebook)
+Hugging Face Model Link - https://huggingface.co/sonalbajaj/sms-spam-distilbert/tree/main
+Docker Image URL - https://hub.docker.com/repository/docker/sonalbajaj/mlops-a3-inference
+W&B Project Dashboard Link - https://wandb.ai/g25ait2108-prom-iit-rajasthan/mlops-group-assignment?nw=nwuserg25ait2108
+
 ## Overview
 
 This project implements an end-to-end MLOps pipeline for SMS spam classification using Hugging Face Transformers, Kaggle, Weights & Biases (W&B), Docker, and GitHub Actions.
